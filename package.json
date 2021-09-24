@@ -3,6 +3,7 @@
   "version": "1.56.86",
   "description": "A JavaScript / Python / PHP cryptocurrency trading library with support for 130+ exchanges",
   "main": "./ccxt.js",
+  "files": ['*', 'js'],
   "unpkg": "dist/ccxt.browser.js",
   "engines": {
     "node": ">=10.4.0"
